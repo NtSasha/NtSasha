@@ -41,24 +41,27 @@ I build practical software solutions with a strong interest in **frontend develo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat\&logo=intellijidea\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+
 **Other**
 
 ![Web3](https://img.shields.io/badge/Web3-000000?style=flat\&logo=web3.js\&logoColor=white)
 
 ---
 
-## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NtSasha\&show_icons=true\&hide_border=true\&rank_icon=github)
-
----
 
 ## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/sasha-ntwali-78a56443a/) 
-[Email](mailto:sashantwali@gmail.com) 
-
-
+[Email](mailto:sashantwali||@gmail.com) 
 ---
 
 *Thanks for stopping by! 👋*
