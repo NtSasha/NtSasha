@@ -68,6 +68,7 @@ I build practical software solutions with a strong interest in **frontend develo
 ## 🤝 Connect With Me
 
 📧 **Email:** sashantwali@gmail.com
+
 💼 **LinkedIn:** https://www.linkedin.com/in/sasha-ntwali-78a56443a/
 
 ---
