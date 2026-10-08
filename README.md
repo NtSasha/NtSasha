@@ -2,99 +2,63 @@
 
 ### Software Developer
 
-I enjoy building practical software solutions, creating intuitive user experiences, and turning ideas into well-designed applications.
+I build practical software solutions with a strong interest in **frontend development, UI design, and creating intuitive digital experiences.**
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-I'm a Software Developer with a strong interest in **frontend development, UI design, and building meaningful digital experiences**.
-
-I enjoy taking an idea from its early concept to a working application — thinking about how it should look, how people will interact with it, and how the different parts of the system should work together.
-
-I'm also interested in backend development and enjoy learning how the systems behind applications are designed and connected.
-
-For me, software development is a combination of **problem-solving, creativity, and continuous learning**.
+* 💻 Software Developer
+* 🎨 Interested in frontend development & UI design
+* 🚀 Building web applications and practical digital solutions
+* 🧠 Always learning and exploring new technologies
 
 ---
 
-## 🎨 What I Enjoy Building
+## 🛠️ Tech Stack
 
-* Responsive and user-friendly web applications
-* Clean and intuitive interfaces
-* Frontend experiences with thoughtful interactions
-* Full-stack applications
-* REST APIs and backend services
-* Solutions to practical, real-world problems
-
----
-
-## 💻 Technologies & Tools
-
-### Frontend
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white)
 
-### Backend
+**Backend**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
 
+**Databases**
 
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
-### Tools
+**Other**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-000000?style=flat\&logo=web3.js\&logoColor=white)
 
 ---
 
-## 🧠 Currently Learning
+## 📊 GitHub
 
-* Advanced frontend development
-* UI/UX principles and design systems
-* Modern web development
-* Backend architecture and APIs
-* Database design
-* Software engineering best practices
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NtSasha\&show_icons=true\&hide_border=true\&rank_icon=github)
 
 ---
 
-## 🎯 What I'm Interested In
+## 🤝 Connect With Me
 
-**Frontend Development** · **UI/UX Design** · **Web Development** · **Software Engineering** · **Backend Development** · **System Design**
-
----
-
-## 🌱 My Approach
-
-> **Design with purpose. Build with intention. Keep learning.**
-
-I believe good software should not only work well, but should also be intuitive and enjoyable to use.
-
-I like understanding the problem first, exploring different approaches, and then turning the best idea into a working product.
-
----
-
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, building, and connecting with people who are passionate about technology, design, and software development.
-
-**Email:** sashantwali@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/sasha-ntwali-78a56443a/
+[LinkedIn](https://www.linkedin.com/in/sasha-ntwali-78a56443a/) 
+[Email](mailto:sashantwali@gmail.com) 
 
 
 ---
 
-### Thanks for visiting my profile! 👋
+*Thanks for stopping by! 👋*
