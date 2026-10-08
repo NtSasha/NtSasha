@@ -22,7 +22,10 @@ I build practical software solutions with a strong interest in **frontend develo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
 
 **Backend**
 
@@ -41,6 +44,12 @@ I build practical software solutions with a strong interest in **frontend develo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
+**Design & Prototyping**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat\&logo=adobexd\&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat\&logo=framer\&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
@@ -48,7 +57,6 @@ I build practical software solutions with a strong interest in **frontend develo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat\&logo=intellijidea\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
 **Other**
 
@@ -57,11 +65,11 @@ I build practical software solutions with a strong interest in **frontend develo
 ---
 
 
-
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/sasha-ntwali-78a56443a/) 
-[Email](mailto:sashantwali||@gmail.com) 
+📧 **Email:** [sashantwali@gmail.com]
+💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sasha-ntwali-78a56443a/)
+
 ---
 
 *Thanks for stopping by! 👋*
